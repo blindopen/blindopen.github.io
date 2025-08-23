@@ -25,7 +25,7 @@ redirect_from:
 # 🎖 Projects
 
 # 📝 Publications 
-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div>/div></div>  SEPT: Squeeze-and-Excitation Point Transformer with Wise Composite Information Encoding for Segmentation and Classification has been accepted for publication.
+- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div>/div></div></div>  SEPT: Squeeze-and-Excitation Point Transformer with Wise Composite Information Encoding for Segmentation and Classification has been accepted for publication.
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 

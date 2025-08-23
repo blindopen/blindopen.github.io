@@ -17,6 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# 📖 Educations
+- *2017.09 - 2023.11*, Ph.D. in Pattern Recognition and Intelligent Systems, Northeastern University, China. 
+- *2014.09 - 2017.07*, M.S. in Pattern Recognition and Intelligent Systems, Sichuan University, China.
+- *2009.09 - 2013.07*, B.S. in Electronic Information Engineering, Qufu Normal University, China.
 
 # 🔥 News
 - *2025.08*: &nbsp;🎉🎉 SEPT: Squeeze-and-Excitation Point Transformer with Wise Composite Information Encoding for Segmentation and Classification has been accepted for publication in *Neurocomputing*.  

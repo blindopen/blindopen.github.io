@@ -25,7 +25,7 @@ redirect_from:
 # 🎖 Projects
 
 # 📝 Publications 
-<div class='paper-box'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div>
+<code class="language-plaintext highlighter-rouge">Neurocomputing 2025</code>
 SEPT: Squeeze-and-Excitation Point Transformer with Wise Composite Information Encoding for Segmentation and Classification has been accepted for publication.</div></div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**

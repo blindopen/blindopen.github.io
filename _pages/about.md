@@ -25,7 +25,7 @@ redirect_from:
 # 🎖 Projects
 
 # 📝 Publications 
-- <mark>**Neurocomputing2025**<mark>SEPT: Squeeze-and-Excitation Point Transformer with Wise Composite Information Encoding for Segmentation and Classification has been accepted for publication.
+- <mark>**Neurocomputing2025**<mark> SEPT: Squeeze-and-Excitation Point Transformer with Wise Composite Information Encoding for Segmentation and Classification has been accepted for publication.
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 

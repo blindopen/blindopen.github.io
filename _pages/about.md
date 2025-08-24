@@ -36,7 +36,7 @@ redirect_from:
 
 - <em style="background-color: #00FF00;"> TCSVT2024</em>  <a href="https://ieeexplore.ieee.org/abstract/document/10164017">[Link]</a><br>
   <div align="justify"><strong>Hao Peng</strong>, Guofeng Tong. Class-Aware 3D Detector From Point Clouds With Partial Knowledge Diffusion and Center-Weighted IoU
-. <em>IEEE Transactions on Circuits and Systems for Video Technology</em>, vol. 34, no. 2, pp. 1043-1056, Feb. 2024.</div>
+. <em>IEEE Transactions on Circuits and Systems for Video Technology</em>, 2024, 34(2), 1043-1056.</div>
 
 
 # 📖 Educations

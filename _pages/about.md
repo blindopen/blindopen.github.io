@@ -38,7 +38,7 @@ redirect_from:
   <div align="justify"><strong>Hao Peng</strong>, Guofeng Tong*. Class-Aware 3D Detector From Point Clouds With Partial Knowledge Diffusion and Center-Weighted IoU
 . <em>IEEE Transactions on Circuits and Systems for Video Technology</em>, 2024, 34(2), 1043-1056.</div>
 
-- <em style="background-color: #00FF00;"> TITS2023</em>  <a href="https://ieeexplore.ieee.org/abstract/document/10164017">[Link]</a><br>
+- <em style="background-color: #00FF00;"> CAD2024</em>  <a href="https://ieeexplore.ieee.org/abstract/document/10164017">[Link]</a><br>
   <div align="justify"><strong>Hao Peng</strong>, Guofeng Tong, Yuhang Yang, Hao Peng, Xiangzheng Meng, Qijun Yin. SLAM algorithm based on fusion of visual semantics and laser point cloud. <em>Control and Decision</em>, 2024, 39(1), 103-111.</div>
 
 - <em style="background-color: #00FF00;"> TITS2023</em>  <a href="https://ieeexplore.ieee.org/abstract/document/10164017">[Link]</a><br>

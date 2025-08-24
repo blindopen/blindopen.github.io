@@ -29,24 +29,24 @@ redirect_from:
   <div align="justify">SEPT: Squeeze-and-Excitation Point Transformer with Wise Composite Information Encoding for Segmentation and Classification has been accepted for publication.</div>
 
 - <em style="background-color: #00FF00;"> CAG2025</em>  <a href="https://doi.org/10.1016/j.cag.2025.104222">[Link]</a><br>
-  <div align="justify">Yuyuan Shao, Guofeng Tong*, <strong>Hao Peng</strong>. Exploring high-contrast areas context for 3D point cloud segmentation via MLP-driven Discrepancy mechanism. <em>Computers & Graphics</em>, 2025, 129, 104222.</div>
+  <div align="justify">Yuyuan Shao, Guofeng Tong*, <strong>Hao Peng</strong>. Exploring high-contrast areas context for 3D point cloud segmentation via MLP-driven Discrepancy mechanism. <em>Computers & Graphics</em>. 2025, 129, 104222.</div>
 
 - <em style="background-color: #00FF00;"> VC2024</em>  <a href="https://link.springer.com/article/10.1007/s00371-023-02819-9">[Link]</a><br>
-  <div align="justify">Guofeng Tong, Yuyuan Shao*, <strong>Hao Peng</strong>. Learning local contextual features for 3D point clouds semantic segmentation by attentive kernel convolution. <em>The Visual Computer</em>, 2024, 40, 831–847.</div>
+  <div align="justify">Guofeng Tong, Yuyuan Shao*, <strong>Hao Peng</strong>. Learning local contextual features for 3D point clouds semantic segmentation by attentive kernel convolution. <em>The Visual Computer</em>. 2024, 40, 831–847.</div>
 
 - <em style="background-color: #00FF00;"> TCSVT2024</em>  <a href="https://ieeexplore.ieee.org/abstract/document/10164017">[Link]</a><br>
   <div align="justify"><strong>Hao Peng</strong>, Guofeng Tong*. Class-Aware 3D Detector From Point Clouds With Partial Knowledge Diffusion and Center-Weighted IoU
-. <em>IEEE Transactions on Circuits and Systems for Video Technology</em>, 2024, 34(2), 1043-1056.</div>
+. <em>IEEE Transactions on Circuits and Systems for Video Technology</em>. 2024, 34(2), 1043-1056.</div>
 
 - <em style="background-color: #00FF00;"> CAD2024</em>  <a href="http://kzyjc.alljournals.cn/kzyjc/article/abstract/20240111">[Link]</a><br>
-  <div align="justify"><strong>Hao Peng</strong>, Guofeng Tong, Yuhang Yang*, Hao Peng, Xiangzheng Meng, Qijun Yin. SLAM algorithm based on fusion of visual semantics and laser point cloud. <em>Control and Decision</em>, 2024, 39(1), 103-111.</div>
+  <div align="justify"><strong>Hao Peng</strong>, Guofeng Tong, Yuhang Yang*, Hao Peng, Xiangzheng Meng, Qijun Yin. SLAM algorithm based on fusion of visual semantics and laser point cloud. <em>Control and Decision</em>. 2024, 39(1), 103-111.</div>
 
 - <em style="background-color: #00FF00;"> TITS2023</em>  <a href="https://ieeexplore.ieee.org/abstract/document/10185632">[Link]</a><br>
   <div align="justify"><strong>Hao Peng</strong>, Guofeng Tong*, Yuyuan Shao. 3SNet: Semi-Anchor-Free 3D Object Detector With Slice Attention and Symmetric Features Propagation
-. <em>IEEE Transactions on Intelligent Transportation Systems</em>, 2023, 24(12), 13863-13877.</div>
+. <em>IEEE Transactions on Intelligent Transportation Systems</em>. 2023, 24(12), 13863-13877.</div>
 
 - <em style="background-color: #00FF00;"> PRAI2023</em>  <a href="http://manu46.magtech.com.cn/Jweb_prai/CN/abstract/abstract12536.shtml">[Link]</a><br>
-  <div align="justify"><strong>Hao Peng</strong>, Guofeng Tong, Yongxu Liu, Hao Peng, Yuyaun Shao. 3D Point Cloud Semantic Segmentation Network Based on Coding Feature Learning. <em>Pattern Recognition and Artificial Intelligence</em>, 2023, 36(4): 313-326.</div>
+  <div align="justify"><strong>Hao Peng</strong>, Guofeng Tong, Yongxu Liu, Hao Peng, Yuyaun Shao. 3D Point Cloud Semantic Segmentation Network Based on Coding Feature Learning. <em>Pattern Recognition and Artificial Intelligence</em>. 2023, 36(4): 313-326.</div>
 
 
 

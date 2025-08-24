@@ -25,7 +25,7 @@ redirect_from:
 # 🎖 Projects
 
 # 📝 Publications 
-- <code class="language-plaintext highlighter-rouge" > Neurocomputing2025</code> SEPT: Squeeze-and-Excitation Point Transformer with Wise Composite Information Encoding for Segmentation and Classification has been accepted for publication.
+- <code class="language-plaintext highlighter-rouge" style="background-color: #00FF00;" > Neurocomputing2025</code> SEPT: Squeeze-and-Excitation Point Transformer with Wise Composite Information Encoding for Segmentation and Classification has been accepted for publication.
 <ul>
   <li><em style="background-color: #00FF00;">AAAI 2024</em> <a href="https://arxiv.org/abs/2312.11947">Emotion Rendering for Conversational Speech Synthesis with Heterogeneous Graph-Based Context Modeling</a>, Rui Liu, Yifan Hu, <strong>Yi Ren</strong>, et al. <a href="https://github.com/walker-hyf/ECSS"><img src="https://img.shields.io/github/stars/walker-hyf/ECSS?style=social&amp;label=Code+Stars" alt="" /></a></li>
   <li><code class="language-plaintext highlighter-rouge">ICML 2023</code> <a href="https://text-to-audio.github.io/paper.pdf">Make-An-Audio: Text-To-Audio Generation with Prompt-Enhanced Diffusion Models</a>, Rongjie Huang, Jiawei Huang, Dongchao Yang, <strong>Yi Ren</strong>, et al.</li>

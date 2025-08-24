@@ -35,8 +35,12 @@ redirect_from:
   <div align="justify">Guofeng Tong, Yuyuan Shao*, <strong>Hao Peng</strong>. Learning local contextual features for 3D point clouds semantic segmentation by attentive kernel convolution. <em>The Visual Computer</em>, 2024, 40, 831–847.</div>
 
 - <em style="background-color: #00FF00;"> TCSVT2024</em>  <a href="https://ieeexplore.ieee.org/abstract/document/10164017">[Link]</a><br>
-  <div align="justify"><strong>Hao Peng</strong>, Guofeng Tong. Class-Aware 3D Detector From Point Clouds With Partial Knowledge Diffusion and Center-Weighted IoU
+  <div align="justify"><strong>Hao Peng</strong>, Guofeng Tong*. Class-Aware 3D Detector From Point Clouds With Partial Knowledge Diffusion and Center-Weighted IoU
 . <em>IEEE Transactions on Circuits and Systems for Video Technology</em>, 2024, 34(2), 1043-1056.</div>
+
+- <em style="background-color: #00FF00;"> TITS2023</em>  <a href="https://ieeexplore.ieee.org/abstract/document/10164017">[Link]</a><br>
+  <div align="justify"><strong>Hao Peng</strong>, Guofeng Tong*, Yuyuan Shao. 3SNet: Semi-Anchor-Free 3D Object Detector With Slice Attention and Symmetric Features Propagation
+. <em>IEEE Transactions on Intelligent Transportation Systems</em>, 2023, 24(12), 13863-13877.</div>
 
 
 # 📖 Educations

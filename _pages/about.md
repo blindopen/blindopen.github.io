@@ -29,8 +29,12 @@ redirect_from:
   SEPT: Squeeze-and-Excitation Point Transformer with Wise Composite Information Encoding for Segmentation and Classification has been accepted for publication.
 
 - <em style="background-color: #00FF00;"> CAG2025</em>  <a href="https://doi.org/10.1016/j.cag.2025.104222">[Link]</a><br>
-  Exploring high-contrast areas context for 3D point cloud segmentation via MLP-driven Discrepancy mechanism. Yuyuan Shao, Guofeng Tong*, **Peng Hao**. Computers & Graphics,
-Volume 129, 2025, 104222.
+  Yuyuan Shao, Guofeng Tong*, **Peng Hao**. Exploring high-contrast areas context for 3D point cloud segmentation via MLP-driven Discrepancy mechanism. Computers & Graphics,
+2025, 129, 104222.
+
+- <em style="background-color: #00FF00;"> VC2024</em>  <a href="https://doi.org/10.1016/j.cag.2025.104222">[Link]</a><br>
+  Guofeng Tong, Yuyuan Shao*, **Hao Peng**. Learning local contextual features for 3D point clouds semantic segmentation by attentive kernel convolution. The Visual Computer, 2024, 40, 831–847.
+
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 📖 Educations

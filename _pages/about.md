@@ -20,7 +20,7 @@ redirect_from:
 
 
 # 🔥 News
-- <div align="justify">*2025.08*: &nbsp;🎉🎉 SEPT: Squeeze-and-Excitation Point Transformer with Wise Composite Information Encoding for Segmentation and Classification has been accepted for publication in *Neurocomputing*.</div>  
+- <div align="justify">*2025.08*: &nbsp;🎉🎉 SEPT: Squeeze-and-Excitation Point Transformer with Wise Composite Information Encoding for Segmentation and Classification has been accepted for publication in <em>Neurocomputing</em>.</div>  
 
 # 🎖 Projects
 
@@ -29,10 +29,10 @@ redirect_from:
   <div align="justify">SEPT: Squeeze-and-Excitation Point Transformer with Wise Composite Information Encoding for Segmentation and Classification has been accepted for publication.</div>
 
 - <em style="background-color: #00FF00;"> CAG2025</em>  <a href="https://doi.org/10.1016/j.cag.2025.104222">[Link]</a><br>
-  <div align="justify">Yuyuan Shao, Guofeng Tong*, <strong>Hao Peng</strong>. Exploring high-contrast areas context for 3D point cloud segmentation via MLP-driven Discrepancy mechanism. *Computers & Graphics*, 2025, 129, 104222.</div>
+  <div align="justify">Yuyuan Shao, Guofeng Tong*, <strong>Hao Peng</strong>. Exploring high-contrast areas context for 3D point cloud segmentation via MLP-driven Discrepancy mechanism. <em>Computers & Graphics</em>, 2025, 129, 104222.</div>
 
 - <em style="background-color: #00FF00;"> VC2024</em>  <a href="https://doi.org/10.1016/j.cag.2025.104222">[Link]</a><br>
-  <div align="justify">Guofeng Tong, Yuyuan Shao*, <strong>Hao Peng</strong>. Learning local contextual features for 3D point clouds semantic segmentation by attentive kernel convolution. *The Visual Computer*, 2024, 40, 831–847.</div>
+  <div align="justify">Guofeng Tong, Yuyuan Shao*, <strong>Hao Peng</strong>. Learning local contextual features for 3D point clouds semantic segmentation by attentive kernel convolution. <em>The Visual Computer</em>, 2024, 40, 831–847.</div>
 
 
 # 📖 Educations

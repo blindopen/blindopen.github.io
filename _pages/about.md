@@ -34,7 +34,6 @@ redirect_from:
 - <em style="background-color: #00FF00;"> VC2024</em>  <a href="https://doi.org/10.1016/j.cag.2025.104222">[Link]</a><br>
   <div align="justify">Guofeng Tong, Yuyuan Shao*, **Hao Peng**. Learning local contextual features for 3D point clouds semantic segmentation by attentive kernel convolution. *The Visual Computer*, 2024, 40, 831–847.</div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 📖 Educations
 - *2017.09 - 2023.11*, Ph.D. in Pattern Recognition and Intelligent Systems, Northeastern University, China. 

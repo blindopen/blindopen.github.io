@@ -31,8 +31,12 @@ redirect_from:
 - <em style="background-color: #00FF00;"> CAG2025</em>  <a href="https://doi.org/10.1016/j.cag.2025.104222">[Link]</a><br>
   <div align="justify">Yuyuan Shao, Guofeng Tong*, <strong>Hao Peng</strong>. Exploring high-contrast areas context for 3D point cloud segmentation via MLP-driven Discrepancy mechanism. <em>Computers & Graphics</em>, 2025, 129, 104222.</div>
 
-- <em style="background-color: #00FF00;"> VC2024</em>  <a href="https://doi.org/10.1016/j.cag.2025.104222">[Link]</a><br>
+- <em style="background-color: #00FF00;"> VC2024</em>  <a href="https://link.springer.com/article/10.1007/s00371-023-02819-9">[Link]</a><br>
   <div align="justify">Guofeng Tong, Yuyuan Shao*, <strong>Hao Peng</strong>. Learning local contextual features for 3D point clouds semantic segmentation by attentive kernel convolution. <em>The Visual Computer</em>, 2024, 40, 831–847.</div>
+
+- <em style="background-color: #00FF00;"> TCSVT2024</em>  <a href="https://ieeexplore.ieee.org/abstract/document/10164017">[Link]</a><br>
+  <div align="justify"><strong>Hao Peng</strong>, Guofeng Tong. Class-Aware 3D Detector From Point Clouds With Partial Knowledge Diffusion and Center-Weighted IoU
+. <em>IEEE Transactions on Circuits and Systems for Video Technology</em>, vol. 34, no. 2, pp. 1043-1056, Feb. 2024.</div>
 
 
 # 📖 Educations

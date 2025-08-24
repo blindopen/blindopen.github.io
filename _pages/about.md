@@ -20,7 +20,7 @@ redirect_from:
 
 
 # 🔥 News
-- *2025.08*: &nbsp;🎉🎉 SEPT: Squeeze-and-Excitation Point Transformer with Wise Composite Information Encoding for Segmentation and Classification has been accepted for publication in *Neurocomputing*.  
+- <div align="justify">*2025.08*: &nbsp;🎉🎉 SEPT: Squeeze-and-Excitation Point Transformer with Wise Composite Information Encoding for Segmentation and Classification has been accepted for publication in *Neurocomputing*.</div>  
 
 # 🎖 Projects
 

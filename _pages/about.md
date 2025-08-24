@@ -39,14 +39,17 @@ redirect_from:
 . <em>IEEE Transactions on Circuits and Systems for Video Technology</em>. 2024, 34(2), 1043-1056.</div>
 
 - <em style="background-color: #00FF00;"> CAD2024</em>  <a href="http://kzyjc.alljournals.cn/kzyjc/article/abstract/20240111">[Link]</a><br>
-  <div align="justify"><strong>Hao Peng</strong>, Guofeng Tong, Yuhang Yang*, Hao Peng, Xiangzheng Meng, Qijun Yin. SLAM algorithm based on fusion of visual semantics and laser point cloud. <em>Control and Decision</em>. 2024, 39(1), 103-111.</div>
+  <div align="justify">Guofeng Tong, Yuhang Yang*, Hao Peng, Xiangzheng Meng, Qijun Yin. SLAM algorithm based on fusion of visual semantics and laser point cloud. <em>Control and Decision</em>. 2024, 39(1), 103-111.</div>
 
 - <em style="background-color: #00FF00;"> TITS2023</em>  <a href="https://ieeexplore.ieee.org/abstract/document/10185632">[Link]</a><br>
   <div align="justify"><strong>Hao Peng</strong>, Guofeng Tong*, Yuyuan Shao. 3SNet: Semi-Anchor-Free 3D Object Detector With Slice Attention and Symmetric Features Propagation
 . <em>IEEE Transactions on Intelligent Transportation Systems</em>. 2023, 24(12), 13863-13877.</div>
 
 - <em style="background-color: #00FF00;"> PRAI2023</em>  <a href="http://manu46.magtech.com.cn/Jweb_prai/CN/abstract/abstract12536.shtml">[Link]</a><br>
-  <div align="justify"><strong>Hao Peng</strong>, Guofeng Tong, Yongxu Liu, Hao Peng, Yuyaun Shao. 3D Point Cloud Semantic Segmentation Network Based on Coding Feature Learning. <em>Pattern Recognition and Artificial Intelligence</em>. 2023, 36(4): 313-326.</div>
+  <div align="justify">Guofeng Tong, Yongxu Liu*, Hao Peng, Yuyaun Shao. 3D Point Cloud Semantic Segmentation Network Based on Coding Feature Learning. <em>Pattern Recognition and Artificial Intelligence</em>. 2023, 36(4): 313-326.</div>
+
+- <em style="background-color: #00FF00;"> Neurocomputing2022</em>  <a href="https://www.sciencedirect.com/science/article/abs/pii/S0925231222006233">[Link]</a><br>
+  <div align="justify">Yuyuan Shao, Guofeng Tong*, Hao Peng. Mining local geometric structure for large-scale 3D point clouds semantic segmentation. <em>Neurocomputing</em>. 2022, 500,191-202.</div>
 
 
 

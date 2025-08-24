@@ -25,7 +25,7 @@ redirect_from:
 # 🎖 Projects
 
 # 📝 Publications 
-- <em style="background-color: #00FF00;"> Neurocomputing2025</em>  <a href="">[PDF]</a><br>
+- <em style="background-color: #00FF00;"> Neurocomputing2025</em>  <a href="">[Link]</a><br>
   SEPT: Squeeze-and-Excitation Point Transformer with Wise Composite Information Encoding for Segmentation and Classification has been accepted for publication.
 
 - <em style="background-color: #00FF00;"> CAG2025</em>  <a href="https://doi.org/10.1016/j.cag.2025.104222">[Link]</a><br>

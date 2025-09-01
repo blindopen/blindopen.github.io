@@ -20,11 +20,15 @@ redirect_from:
 
 
 # 🔥 News
+- <div align="justify">*2025.08*: &nbsp;🎉🎉 Transferable Class Statistics and Multi-scale Feature Approximation for 3D Object Detection has been accepted for publication in <em>Computers & Graphics</em>.</div>  
 - <div align="justify">*2025.08*: &nbsp;🎉🎉 SEPT: Squeeze-and-Excitation Point Transformer with Wise Composite Information Encoding for Segmentation and Classification has been accepted for publication in <em>Neurocomputing</em>.</div>  
 
 # 🎖 Projects
 
 # 📝 Publications 
+- <em style="background-color: #00FF00;"> CAG2025</em>  <a href="">[Link]</a><br>
+  <div align="justify"><strong>Hao Peng</strong>, Hong Sang, Yajing Ma, Ping Qiu, Chao ji. Exploring high-contrast areas context for 3D point cloud segmentation via MLP-driven Discrepancy mechanism. <em>Computers & Graphics</em>. 2025, 129, 104222.</div>
+  
 - <em style="background-color: #00FF00;"> Neurocomputing2025</em>  <a href="">[Link]</a><br>
   <div align="justify">SEPT: Squeeze-and-Excitation Point Transformer with Wise Composite Information Encoding for Segmentation and Classification has been accepted for publication.</div>
 

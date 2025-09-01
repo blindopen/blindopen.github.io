@@ -30,7 +30,7 @@ redirect_from:
   <div align="justify"><strong>Hao Peng</strong>, Hong Sang, Yajing Ma, Ping Qiu, Chao ji. Exploring high-contrast areas context for 3D point cloud segmentation via MLP-driven Discrepancy mechanism. <em>Computers & Graphics</em>. 2025, 129, 104222.</div>
   
 - <em style="background-color: #00FF00;"> Neurocomputing2025</em>  <a href="">[Link]</a><br>
-  <div align="justify">SEPT: Squeeze-and-Excitation Point Transformer with Wise Composite Information Encoding for Segmentation and Classification has been accepted for publication.</div>
+  <div align="justify">Chao ji, Guofeng Tong, <strong>Hao Peng</strong>, Guocheng Wang. SEPT: Squeeze-and-Excitation Point Transformer with Wise Composite Information Encoding for Segmentation and Classification. Neurocomputing. 2025, 131334.</div>
 
 - <em style="background-color: #00FF00;"> CAG2025</em>  <a href="https://doi.org/10.1016/j.cag.2025.104222">[Link]</a><br>
   <div align="justify">Yuyuan Shao, Guofeng Tong*, <strong>Hao Peng</strong>. Exploring high-contrast areas context for 3D point cloud segmentation via MLP-driven Discrepancy mechanism. <em>Computers & Graphics</em>. 2025, 129, 104222.</div>

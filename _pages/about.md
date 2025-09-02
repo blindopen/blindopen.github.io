@@ -27,7 +27,7 @@ redirect_from:
 
 # 📝 Publications 
 - <em style="background-color: #00FF00;"> CAG2025</em>  <a href="">[Link]</a><br>
-  <div align="justify"><strong>Hao Peng</strong>, Hong Sang, Yajing Ma, Ping Qiu, Chao ji. Exploring high-contrast areas context for 3D point cloud segmentation via MLP-driven Discrepancy mechanism. <em>Computers & Graphics</em>. 2025, 129, 104222.</div>
+  <div align="justify"><strong>Hao Peng</strong>, Hong Sang, Yajing Ma, Ping Qiu, Chao ji. Transferable Class Statistics and Multi-scale Feature Approximation for 3D Object Detection. <em>Computers & Graphics</em>.</div>
   
 - <em style="background-color: #00FF00;"> Neurocomputing2025</em>  <a href="">[Link]</a><br>
   <div align="justify">Chao ji, Guofeng Tong, <strong>Hao Peng</strong>, Guocheng Wang. SEPT: Squeeze-and-Excitation Point Transformer with Wise Composite Information Encoding for Segmentation and Classification. Neurocomputing. 2025, 131334.</div>

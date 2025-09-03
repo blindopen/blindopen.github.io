@@ -62,9 +62,5 @@ redirect_from:
 - *2014.09 - 2017.07*, M.S. in Pattern Recognition and Intelligent Systems, Sichuan University, China.
 - *2009.09 - 2013.07*, B.S. in Electronic Information Engineering, Qufu Normal University, China.
   
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💬 Service
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
